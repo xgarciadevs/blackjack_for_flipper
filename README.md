@@ -1,2 +1,2 @@
-# blackjack_for_flipper
+# Blackjack for Flipper Zero
 Classic Blackjack Game
